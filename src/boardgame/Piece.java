@@ -27,6 +27,6 @@ public abstract class Piece {
 				if (mat[i][j])
 					return true;
 		}
-		return false;	
+		return false;
 	}
 }
